@@ -19,7 +19,7 @@ raw_cement_producer_data = raw_ghgp_data[raw_ghgp_data['Industry Type (subparts)
 print(raw_cement_producer_data)
 
 # drop the columns we don't need
-keep_them = ['Facility Id', 'Facility Name', 'City', 'State', 'Zip Code', 'Address', 'County', 'Latitude', 'Longitude', 'Cement Production']
+keep_them = ['Facility Id', 'Facility Name', 'City', 'State', 'Zip Code', 'Address', 'County', 'Latitude', 'Longitude', 'Primary NAICS Code', 'Cement Production']
 cleaned_cement_producer_data = raw_cement_producer_data[keep_them]
 print(cleaned_cement_producer_data)
 

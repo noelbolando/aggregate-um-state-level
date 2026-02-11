@@ -3,7 +3,7 @@
 ###
 #== US Department of Labor Sand Mine Data
 #== Source: https://www.msha.gov/data-and-reports/mine-data-retrieval-system 
-#== Notes: This data only includes commodities with NEC codes 144200 and 144201
+#== Notes: This data only includes commodities with SIC codes 144200 and 144201
 ###
 #== This data contains the addresses for all active sand mines across the US
 #== Downloaded: 12/07/2025

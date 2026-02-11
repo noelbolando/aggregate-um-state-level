@@ -11,7 +11,7 @@
 
 # bring it all in
 import pandas as pd
-raw_ghgp_data = pd.read_csv('clinker_data/raw_data/ghgp_data_2010-12_8_2025.csv')
+raw_ghgp_data = pd.read_csv('clinker_data/raw_data/ghgp_data_2022-02_11_2026.csv')
 
 # filter for industries with code 'H' (cement producers)
 valid_industry_codes = ['C,H', 'H']
@@ -24,4 +24,4 @@ cleaned_cement_producer_data = raw_cement_producer_data[keep_them]
 print(cleaned_cement_producer_data)
 
 # output the cleaned data to a csv
-cleaned_cement_producer_data.to_csv('clinker_data/cleaned_data/cement_production_2010-12_8_2025.csv', index=False)
+cleaned_cement_producer_data.to_csv('clinker_data/cleaned_data/cement_production_2022-02_11_2026.csv', index=False)

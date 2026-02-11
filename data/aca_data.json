@@ -1,0 +1,795 @@
+[
+  {
+    "state": "TENNESSEE",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Tennessee_One-Sheet_11-06-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "CONNECTICUT",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Connecticut_One-Sheet_07-19-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "OHIO",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Ohio_One-Sheet_11-05-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "VIRGINIA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Virginia_One-Sheet_07-20-25_v1.pdf",
+    "companies": [
+      {
+        "company": "Heidelberg Materials,",
+        "location": "Waynesboro,",
+        "house_member": "Ben Cline (R-6th)"
+      },
+      {
+        "company": "Heidelberg Materials,",
+        "location": "Norfolk,",
+        "house_member": "Bobby Scott (D-3rd)"
+      },
+      {
+        "company": "Heidelberg Materials, Chester, Jennifer",
+        "location": "Mc",
+        "house_member": "Clellan (D-4th)"
+      },
+      {
+        "company": "QUIKRETE Cement, Ashland, John",
+        "location": "Mc",
+        "house_member": "Guire (R-5th)"
+      },
+      {
+        "company": "QUIKRETE Cement,",
+        "location": "Chesapeake,",
+        "house_member": "Bobby Scott (D-3rd)"
+      },
+      {
+        "company": "QUIKRETE Cement, Newport",
+        "location": "News,",
+        "house_member": "Bobby Scott (D-3rd)"
+      },
+      {
+        "company": "Titan America LLC,",
+        "location": "Norfolk,",
+        "house_member": "Bobby Scott (D-3rd)"
+      }
+    ],
+    "terminals": []
+  },
+  {
+    "state": "ALASKA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Alaska_One-Sheet_06-04-25_v1.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "MARYLAND",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Maryland_One-Sheet_10-21-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "NEBRASKA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Nebraska_One-Sheet_07-19-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "Unknown",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Iowa_One-Sheet_10-21-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "OREGON",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Oregon_One-Sheet_11-05-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "Unknown",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Michigan_One-Sheet_07-19-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "NORTH CAROLINA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_NorthCarolina_One-Sheet_11-11-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "INDIANA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Indiana_One-Sheet_10-21-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "MASSACHUSETTS",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Massachusetts_One-Sheet_07-19-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "MON TANA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Montana_One-Sheet_06-06-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "SOU TH DAKOTA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_SouthDakota_One-Sheet_11-05-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "IDAHO",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Idaho_One-Sheet_10-21-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "PENNSYLVANIA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Pennsylvania_One-Sheet_07-20-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "WISCONSIN",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Wisconsin_One-Sheet_11-11-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "MAINE",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Maine_One-Sheet_10-21-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "KENTUCKY",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Kentucky_One-Sheet_10-21-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "ALABAMA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Alabama_One-Sheet_07-19-25_v1.pdf",
+    "companies": [
+      {
+        "company": "Amrize1",
+        "location": "Theodore",
+        "house_member": "Barry Moore (R-1st)"
+      },
+      {
+        "company": "Cemex USA",
+        "location": "Demopolis",
+        "house_member": "Terri Sewell (D-7th)"
+      },
+      {
+        "company": "Heidelberg Materials",
+        "location": "Leeds",
+        "house_member": "Gary Palmer (R-6th)"
+      },
+      {
+        "company": "National Cement Company of Alabama, Inc.",
+        "location": "Ragland",
+        "house_member": "Mike Rogers (R-3rd)"
+      },
+      {
+        "company": "QUIKRETE Cement",
+        "location": "Calera",
+        "house_member": "Gary Palmer (R-6th)"
+      }
+    ],
+    "terminals": [
+      {
+        "company": "Amrize1",
+        "location": "Birmingham",
+        "house_member": "Terri Sewell (D-7th)"
+      },
+      {
+        "company": "Cemex USA",
+        "location": "Decatur",
+        "house_member": "Dale Strong (R-5th)"
+      },
+      {
+        "company": "Cemex USA",
+        "location": "Birmingham",
+        "house_member": "Terri Sewell (D-7th)"
+      },
+      {
+        "company": "Cemex USA",
+        "location": "Prichard",
+        "house_member": "Shomari\u00a0Figures (D-2nd)"
+      },
+      {
+        "company": "Heidelberg Materials",
+        "location": "Leeds",
+        "house_member": "Gary Palmer (R-6th)"
+      },
+      {
+        "company": "QUIKRETE Cement",
+        "location": "Mobile",
+        "house_member": "Shomari\u00a0Figures (D-2nd)"
+      }
+    ]
+  },
+  {
+    "state": "LOUISIANA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Louisiana_One-Sheet_10-21-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "WEST VIRGINIA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_WestVirginia_One-Sheet_07-20-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "OKLAHOMA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Oklahoma_One-Sheet_07-20-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "Unknown",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Minnesota_One-Sheet_07-19-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "DELAWARE",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Delaware_One-Sheet_06-06-25_v1.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "HAWAII",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Hawaii_One-Sheet_06-06-25_v1.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "KANSAS",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Kansas_One-Sheet_10-21-25_v2.pdf",
+    "companies": [
+      {
+        "company": "Ash Grove, a CRH Company",
+        "location": "Chanute",
+        "house_member": "Derek Schmidt (R-2nd)"
+      },
+      {
+        "company": "Ash Grove, a CRH Company, Great",
+        "location": "Bend,",
+        "house_member": "Tracey Mann (R-1st)"
+      },
+      {
+        "company": "Ash Grove, a CRH Company, Kansas",
+        "location": "City,",
+        "house_member": "Sharice Davids (D-3rd)"
+      },
+      {
+        "company": "Buzzi Unicem USA, Bonner",
+        "location": "Springs,",
+        "house_member": "Sharice Davids (D-3rd)"
+      },
+      {
+        "company": "Buzzi Unicem USA,",
+        "location": "Wichita,",
+        "house_member": "Ron Estes (R-4th)"
+      },
+      {
+        "company": "Eagle Materials1,",
+        "location": "Wichita,",
+        "house_member": "Ron Estes (R-4th)"
+      },
+      {
+        "company": "The Monarch Cement Co., Spring Hill",
+        "location": ",",
+        "house_member": "Sharice Davids (D-3rd)"
+      },
+      {
+        "company": "The Monarch Cement Co., Dodge",
+        "location": "City,",
+        "house_member": "Tracey Mann (R-1st)"
+      }
+    ],
+    "terminals": []
+  },
+  {
+    "state": "CALIFORNIA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_California_One-Sheet_10-21-25_v2.pdf",
+    "companies": [
+      {
+        "company": "CalPortland Redding Doug",
+        "location": "La",
+        "house_member": "Malfa (R-1st)"
+      },
+      {
+        "company": "CalPortland Oro",
+        "location": "Grande",
+        "house_member": "Jay Obernolte (R-23rd)"
+      },
+      {
+        "company": "CalPortland",
+        "location": "Mojave",
+        "house_member": "Vince Fong (R-20th)"
+      },
+      {
+        "company": "Cemex USA",
+        "location": "Victorville",
+        "house_member": "Jay Obernolte (R-23rd)"
+      },
+      {
+        "company": "Mitsubishi Cement Corp. Lucerne",
+        "location": "Valley",
+        "house_member": "Jay Obernolte (R-23rd)"
+      },
+      {
+        "company": "National Cement Co. of California",
+        "location": "Lebec",
+        "house_member": "Vince Fong (R-20th)"
+      },
+      {
+        "company": "CalPortland,",
+        "location": "Carmenita,",
+        "house_member": "Linda Sanchez (D-38th)"
+      },
+      {
+        "company": "CalPortland, Wilimington,",
+        "location": "Nanette",
+        "house_member": "Diaz Barragan (D-44th)"
+      },
+      {
+        "company": "CalPortland,",
+        "location": "Fresno,",
+        "house_member": "Jim Costa (D-21st)"
+      },
+      {
+        "company": "CalPortland, National",
+        "location": "City,",
+        "house_member": "Juan Vargas (D-52nd)"
+      },
+      {
+        "company": "CalPortland, Union",
+        "location": "City,",
+        "house_member": "Eric Swalwell (D-14th)"
+      },
+      {
+        "company": "CalPortland, Stockton",
+        "location": "West,",
+        "house_member": "Josh Harder (D-9th)"
+      },
+      {
+        "company": "CalPortland, Stockton",
+        "location": "East,",
+        "house_member": "Josh Harder (D-9th)"
+      },
+      {
+        "company": "Cemex USA, West",
+        "location": "Sacramento,",
+        "house_member": "Doris Matsui (D-7th)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Sacramento,",
+        "house_member": "Doris Matsui (D-7th)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Richmond,",
+        "house_member": "Josh Garamendi (D-8th)"
+      },
+      {
+        "company": "Cemex USA, Redwood",
+        "location": "City,",
+        "house_member": "Kevin Mullin (D-15th)"
+      },
+      {
+        "company": "Cemex USA, La",
+        "location": "Mirada,",
+        "house_member": "Linda Sanchez (D-38th)"
+      },
+      {
+        "company": "Cemex USA, Long",
+        "location": "Beach,",
+        "house_member": "Robert Garcia (D-42nd)"
+      },
+      {
+        "company": "Cemex USA, El",
+        "location": "Centro,",
+        "house_member": "Raul Ruiz (D-25th)"
+      },
+      {
+        "company": "Eagle Materials1,",
+        "location": "Stockton,",
+        "house_member": "Josh Harder (D-9th)"
+      },
+      {
+        "company": "Eagle Materials1, Redwood",
+        "location": "City,",
+        "house_member": "Kevin Mullin (D-15th)"
+      },
+      {
+        "company": "Eagle Materials1,",
+        "location": "Sacramento,",
+        "house_member": "Doris Matsui (D-7th)"
+      },
+      {
+        "company": "Lehigh White,",
+        "location": "Riverside,",
+        "house_member": "Mark Takano (D-39th)"
+      },
+      {
+        "company": "Mitsubishi Cement Corporation, Long",
+        "location": "Beach,",
+        "house_member": "Robert Garcia (D-42nd)"
+      },
+      {
+        "company": "UNACEM North America,",
+        "location": "Fontana,",
+        "house_member": "Norma Torres (D-25th)"
+      }
+    ],
+    "terminals": []
+  },
+  {
+    "state": "TEXAS",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Texas_One-Sheet_11-11-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "VERMONT",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Vermont_One-Sheet_06-06-25_v1.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "NEW JERSEY",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_NewJersey_One-Sheet_07-19-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "Unknown",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Illinois_One-Sheet_11-11-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "ARIZONA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Arizona_One-Sheet_06-06-25_v1.pdf",
+    "companies": [
+      {
+        "company": "CalPortland Company",
+        "location": "Rillito",
+        "house_member": "Juan Ciscomani (R-6th)"
+      },
+      {
+        "company": "Salt River Materials Group",
+        "location": "Clarkdale",
+        "house_member": "Eli Crane (R-2nd)"
+      },
+      {
+        "company": "CalPortland,",
+        "location": "Phoenix,",
+        "house_member": "Yassamin Ansari (D-3rd)"
+      },
+      {
+        "company": "CalPortland,",
+        "location": "Yuma,",
+        "house_member": "Paul Gosar (R-9th)"
+      },
+      {
+        "company": "CalPortland, Casa",
+        "location": "Grande,",
+        "house_member": "Juan Ciscomani (R-6th)"
+      },
+      {
+        "company": "CalPortland,",
+        "location": "Phoenix,",
+        "house_member": "Yassamin Ansari (D-3rd)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Phoenix,",
+        "house_member": "Yassamin Ansari (D-3rd)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Tucson,",
+        "house_member": "Juan Ciscomani (R-6th)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Chandler,",
+        "house_member": "Greg Stanton (D-4th)"
+      },
+      {
+        "company": "Salt River Materials Group,",
+        "location": "Phoenix,",
+        "house_member": "Yassamin Ansari (D-3rd)"
+      },
+      {
+        "company": "Salt River Materials Group,",
+        "location": "Phoenix,",
+        "house_member": "Yassamin Ansari (D-3rd)"
+      },
+      {
+        "company": "Salt River Materials Group,",
+        "location": "Phoenix,",
+        "house_member": "Yassamin Ansari (D-3rd)"
+      }
+    ],
+    "terminals": []
+  },
+  {
+    "state": "Unknown",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Utah_One-Sheet_11-11-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "COLORADO",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Colorado_One-Sheet_10-21-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "Unknown",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Missouri_One-Sheet_11-11-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "NEW YORK",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_NewYork_One-Sheet_07-19-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "WYOMING",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Wyoming_One-Sheet_06-06-25_v1.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "Unknown",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Arkansas_One-Sheet_10-21-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "FLORIDA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Florida_One-Sheet_10-21-25_v2.pdf",
+    "companies": [
+      {
+        "company": "Ash Grove, a CRH Company",
+        "location": "Sumterville",
+        "house_member": "Kat Cammack (R-3rd)"
+      },
+      {
+        "company": "Ash Grove, a CRH Company",
+        "location": "Branford",
+        "house_member": "Daniel Webster (R-11th)"
+      },
+      {
+        "company": "Cemex USA",
+        "location": "Brooksville",
+        "house_member": "Gus Bilirakis (R-12th)"
+      },
+      {
+        "company": "Cemex USA Miami Mario",
+        "location": "Diaz-",
+        "house_member": "Balart (R-26th)"
+      },
+      {
+        "company": "QUIKRETE Cement2",
+        "location": "Tampa",
+        "house_member": "Kat Cammack (R-3rd)"
+      },
+      {
+        "company": "QUIKRETE Cement",
+        "location": "Newberry",
+        "house_member": "Kathy Castor (D-14th)"
+      },
+      {
+        "company": "Buzzi Unicem USA,",
+        "location": "Pensacola,",
+        "house_member": "Jimmy Patronis (R-1st)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Pensacola,",
+        "house_member": "Jimmy Patronis (R-1st)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Pensacola,",
+        "house_member": "Jimmy Patronis (R-1st)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Freeport,",
+        "house_member": "Jimmy Patronis (R-1st)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Tallahassee,",
+        "house_member": "Neal Dunn (R-2nd)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Jacksonville,",
+        "house_member": "Aaron Bean (R-4th)"
+      },
+      {
+        "company": "Cemex USA, Pendola",
+        "location": "Point,",
+        "house_member": "Kathy Castor (D-14th)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Tampa,",
+        "house_member": "Kathy Castor (D-14th)"
+      },
+      {
+        "company": "Cemex USA, West Palm Beach, Sheila",
+        "location": "Cherfilus-Mc",
+        "house_member": "Cormick (D-20th)"
+      },
+      {
+        "company": "Cemex USA, Riviera, Sheila",
+        "location": "Cherfilus-Mc",
+        "house_member": "Cormick (D-20th)"
+      },
+      {
+        "company": "Cemex USA, Port Everglades,",
+        "location": "Debbie",
+        "house_member": "Wasserman\u00a0Schultz (D-25th)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Tampa,",
+        "house_member": "Kathy Castor (D-14th)"
+      },
+      {
+        "company": "Cemex USA,",
+        "location": "Lockhart,",
+        "house_member": "Maxwell Frost (D-10th)"
+      },
+      {
+        "company": "Heidelberg Materials,",
+        "location": "Jacksonville,",
+        "house_member": "Aaron Bean (R-4th)"
+      },
+      {
+        "company": "Heidelberg Materials, Cape",
+        "location": "Canaveral,",
+        "house_member": "Bill Posey (R-8th)"
+      },
+      {
+        "company": "Heidelberg Materials, Port Everglades,",
+        "location": "Debbie",
+        "house_member": "Wasserman\u00a0Schultz (D-25th)"
+      },
+      {
+        "company": "Lehigh White1, Port Everglades,",
+        "location": "Debbie",
+        "house_member": "Wasserman\u00a0Schultz (D-25th)"
+      },
+      {
+        "company": "Lehigh White1,",
+        "location": "Tampa,",
+        "house_member": "Kathy Castor (D-14th)"
+      },
+      {
+        "company": "QUIKRETE Cement, Port",
+        "location": "Manatee,",
+        "house_member": "Vern Buchanan (R-16th)"
+      },
+      {
+        "company": "SRM Concrete/Hollingshead Cement1, Panama",
+        "location": "City,",
+        "house_member": "Neal Dunn (R-2nd)"
+      },
+      {
+        "company": "SRM Concrete/Hollingshead Cement1,",
+        "location": "Jacksonville,",
+        "house_member": "Aaron Bean (R-4th)"
+      },
+      {
+        "company": "Titan America LLC,",
+        "location": "Tampa,",
+        "house_member": "Kathy Castor (D-14th)"
+      }
+    ],
+    "terminals": []
+  },
+  {
+    "state": "NEW MEXICO",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_NewMexico_One-Sheet_07-19-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "NEVADA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Nevada_One-Sheet_06-06-25_v2.pdf",
+    "companies": [
+      {
+        "company": "Ash Grove, a CRH Company, North Las",
+        "location": "Vegas,",
+        "house_member": "Steven Horsford (D-4th)"
+      },
+      {
+        "company": "Ash Grove, a CRH Company,",
+        "location": "Elko,",
+        "house_member": "Mark Amodei (R-2nd)"
+      },
+      {
+        "company": "CalPortland, Las",
+        "location": "Vegas,",
+        "house_member": "Steven Horsford (D-4th)"
+      },
+      {
+        "company": "CalPortland,",
+        "location": "Sparks,",
+        "house_member": "Mark Amodei (R-2nd)"
+      },
+      {
+        "company": "UNACEM North America, Las",
+        "location": "Vegas,",
+        "house_member": "Steven Horsford (D-4th)"
+      }
+    ],
+    "terminals": []
+  },
+  {
+    "state": "GEORGIA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Georgia_One-Sheet_10-21-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "RHODE ISLAND",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_RhodeIsland_One-Sheet_07-20-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "SOUTH CAROLINA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_SouthCarolina_One-Sheet_07-20-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "MISSISSIPPI",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Mississippi_One-Sheet_08-25-25_v2.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "Unknown",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_NewHampshire_One-Sheet_06-06-25_v1.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "WASHI NGTO N",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_Washington_One-Sheet_06-06-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  },
+  {
+    "state": "NORTH DAKOTA",
+    "pdf_path": "/Users/nboland/Projects/aggregate-um-state-level/data/terminal_data/raw_data/ACA_NorthDakota_One-Sheet_11-11-25_v3.pdf",
+    "companies": [],
+    "terminals": []
+  }
+]

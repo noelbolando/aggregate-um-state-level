@@ -31,4 +31,4 @@ for f in files:
 
 df_all = pd.concat(dfs, ignore_index=True)
 print(df_all)
-df_all.to_csv('clinker_data/cleaned_data/all_cement_production_2010_to_2021-12_8_2025.csv', index=False)
+df_all.to_csv('clinker_data/cleaned_data/all_cement_production_2010_to_2021-02_11_2026.csv', index=False)
